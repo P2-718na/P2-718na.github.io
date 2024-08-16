@@ -1,0 +1,14 @@
+[{
+  "name": "Trieste",
+  "geoLocation": "coordinates here",
+  "pictureFile": "file location in assets folder go here",
+  "events": [
+    {
+      "date": "01/08/2024",
+      "name-en": "Name goes here",
+      "name-it": "Nome andare qua",
+      "description-en": "De",
+      "description-it": "De-it"
+    }
+  ]
+}]
